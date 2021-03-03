@@ -23,3 +23,8 @@ console.log(iterador.next().value);
 console.log(iterador.next().value);
 console.log(iterador.next().value);
 console.log(iterador.next().value);
+
+miArray.push(53);
+console.log(miArray);
+console.log(miArray.length);
+console.log(miArray[3]);
